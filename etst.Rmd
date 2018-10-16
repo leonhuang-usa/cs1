@@ -82,3 +82,9 @@ sp <- ggplot(FullData, aes(x=ABV, y=IBU)) + geom_point()
 sp + labs(title="Relationship Between Bitterness and Alcohol Content",
           x ="Alcohol by Volume", y = "International Bitterness Unit")
 ```
+
+
+
+github link for source code and PPT:
+https://github.com/leonhuang-usa/cs1.git
+
