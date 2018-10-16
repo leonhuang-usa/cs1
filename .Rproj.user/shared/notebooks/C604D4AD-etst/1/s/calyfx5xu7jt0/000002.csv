@@ -1,0 +1,2 @@
+"0","BPS <- data.frame(table(Brew$State)) #Breweries Per State"
+"0","kable(BPS, caption = ""Breweries per State"", col.names = c('State', 'Number of Breweries'))"

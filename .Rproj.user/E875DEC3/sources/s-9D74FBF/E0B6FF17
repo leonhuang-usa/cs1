@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539711065516.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E0B6FF17",
+    "lastKnownWriteTime" : 1539723962,
+    "last_content_update" : 1539727200164,
+    "path" : "~/DataScience/DDS6303/exampleprojects/cs1/project 1.R",
+    "project_path" : "project 1.R",
+    "properties" : {
+        "cursorPosition" : "70,41",
+        "scrollLine" : "47"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
